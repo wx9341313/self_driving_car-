@@ -1,0 +1,8 @@
+prefix=/home/arg/self-car_ws/devel
+
+Name: hw3
+Description: Description of hw3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/arg/self-car_ws/devel/lib 
+Requires: 

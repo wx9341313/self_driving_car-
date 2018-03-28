@@ -1,0 +1,2 @@
+hw3
+-DCATKIN_DEVEL_PREFIX=/home/arg/self-car_ws/devel -DCMAKE_INSTALL_PREFIX=/home/arg/self-car_ws/install -G Unix Makefiles
